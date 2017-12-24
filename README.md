@@ -9,6 +9,6 @@ dataset x3 : test.p valid.p train.p
 opencv_python-3.4.0-cp36-cp36m-win_amd64.whl
 
 
-pip install  pillow libpng
+（pip install  pillow libpng 失敗するかも？？）
 easy_install pillow libpng
-
+※DLLｴﾗｰが生じた際は一度uninstallした後　再インストール！
